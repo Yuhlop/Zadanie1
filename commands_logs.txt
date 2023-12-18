@@ -1,0 +1,6 @@
+1. mkdir users
+2. touch users{1..207}.txt
+3. mkdir groups
+4. touch group{1..69}.txt
+5. mkdir subjects
+6. touch subjects{1..50}.txt
